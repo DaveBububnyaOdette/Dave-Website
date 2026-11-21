@@ -21,3 +21,7 @@ Terima kasih kepada Tuhan Yang Maha Esa.\
 Terima kasih kepada Pak Wasino selaku dosen mata kuliah Pemrograman Antarmuka Pengguna.\
 Terima kasih kepada My Bubub, Odette Spessiva.\
 Proyek ini dibuat saat Dave semester 3, saya pasti bisa lulus di mata kuliah PAP ini.
+
+# Kritik / Saran / Pengaduan
+Kalau kalian nemuin bug, celah, atau kalian punya kritik dan saran, boleh banget kalian email ke dave.825250150@stu.untar.ac.id \
+Terima kasih yaa!
